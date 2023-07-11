@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Tech",
+            "title": "5 things about AI you may have missed today: Google to use public info to train AI, tech layoffs, more - HT Tech",
+            "description": "AI Roundup: These are some of the most interesting news about artificial intelligence. Google has updated its privacy policy to suggest that it will be training its AI models on publicly available data.",
+            "url": "https://tech.hindustantimes.com/tech/news/5-things-about-ai-you-may-have-missed-today-google-to-use-public-info-to-train-ai-tech-layoffs-more-71688492443632.html",
+            "urlToImage": "https://images.hindustantimes.com/tech/img/2023/07/04/1600x900/AI_1685153373330_1688492522866.JPG",
+            "publishedAt": "2023-07-04T17:46:16Z",
+            "content": "After announcing Gemini, a project by DeepMind aiming to surpass artificial intelligence models like ChatGPT yesterday, Google has now updated its privacy policy and is suggesting that it will only b… [+3614 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "SAFF Championship: India beat Kuwait in penalty shootout to win 9th title | Football News - Indiatimes.com",
+            "description": "Football News: A determined Team India edged Kuwait in a tense penalty shootout to clinch a record ninth SAFF Championship title in Bengaluru on Tuesday. India finis",
+            "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/saff-championship-india-beat-kuwait-in-penalty-shootout-to-win-9th-title/articleshow/101495330.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-101495339,width-1070,height-580,imgsize-137238,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2023-07-04T17:21:00Z",
+            "content": "Wimbledon 2023: Djokovic sails, Gauff exits on Day 1"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newslaundry.com"
+            },
+            "author": "Prateek Goyal, Avdhesh Kumar",
+            "title": "‘BJP MLA’s aide’ urinates on tribal worker, victim ‘pressured’ to blame person who shared video - Newslaundry",
+            "description": "After outrage on social media, CM Shivraj Singh Chouhan said the NSA will be invoked against the accused.",
+            "url": "https://www.newslaundry.com/2023/07/04/bjp-mlas-aide-urinates-on-tribal-worker-victim-pressured-to-blame-person-who-shared-video",
+            "urlToImage": "https://gumlet.assettype.com/newslaundry%2F2023-07%2F9b6c9fc0-5ffa-482d-b0f3-36954a87319d%2Fmp_tribal_shukla.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2023-07-04T16:06:34Z",
+            "content": "Days after a video showed a man urinating on a tribal labourer in Madhya Pradeshs Sidhi district, the victim has now filed a police affidavit denying the incident ever took place. He has also said th… [+3926 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": "Nagraj Gollapudi",
+            "title": "Ajit Agarkar named India men's chairman of selectors - ESPNcricinfo",
+            "description": "It is understood he was the Cricket Advisory Committee's unanimous choice who conducted the interviews",
+            "url": "https://www.espncricinfo.com/story/ajit-agarkar-named-india-men-s-chairman-of-selectors-1385750",
+            "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/363000/363065.6.jpg",
+            "publishedAt": "2023-07-04T15:56:41Z",
+            "content": "NewsIt is understood he was the Cricket Advisory Committee's unanimous choice who conducted the interviews"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bollywood Hungama"
+            },
+            "author": "Bollywood Hungama",
+            "title": "REVEALED: Varun Dhawan joins Ananya Panday, Janhvi Kapoor, and Sara Ali Khan in the Ranveer Singh - Alia Bhatt starrer Rocky Aur Rani Kii Prem Kahaani - Bollywood Hungama",
+            "description": "REVEALED: Varun Dhawan joins Ananya Panday, Janhvi Kapoor, and Sara Ali Khan in the Ranveer Singh – Alia Bhatt starrer Rocky Aur Rani Kii Prem Kahaani. Bollywood News: Latest Bollywood News, Bollywood News Today, Bollywood Celebrity News, Breaking News, Celeb…",
+            "url": "https://www.bollywoodhungama.com/news/bollywood/revealed-varun-dhawan-joins-ananya-panday-janhvi-kapoor-sara-ali-khan-ranveer-singh-alia-bhatt-starrer-rocky-aur-rani-kii-prem-kahaani/",
+            "urlToImage": "https://media5.bollywoodhungama.in/wp-content/uploads/2023/07/REVEALED-Varun-Dhawan-joins-Ananya-Panday-Janhvi-Kapoor-and-Sara-Ali-Khan-in-the-Ranveer-Singh-Alia-Bhatt-starrer-Rocky-Aur-Rani-Kii-Prem-Kahaani.jpeg",
+            "publishedAt": "2023-07-04T15:04:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Massive solar flare causes Radio Blackout in the US and Pacific Ocean | Trending on WION - WION",
+            "description": "Here, we bring you the news that is trending across WION's social media platforms- A powerful solar flare recently caused a temporary radio blackout in the w...",
+            "url": "https://www.youtube.com/watch?v=cX9yqlGaXZU",
+            "urlToImage": "https://i.ytimg.com/vi/cX9yqlGaXZU/maxresdefault.jpg",
+            "publishedAt": "2023-07-04T14:37:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "Hamsini Karthik & Nabodita  Ganguly",
+            "title": "IDFC First Bank and IDFC merger: What does it mean for investors? - BusinessLine",
+            "description": "In addition to approving the merger of the two companies, the boards of directors of IDFC and IDFC Financial Holding also announced an exchange of 155 shares of IDFC FIRST Bank for every 100 shares of IDFC. Now, what does all this mean for customers?",
+            "url": "https://www.thehindubusinessline.com/multimedia/audio/idfc-first-bank-and-idfc-merger-what-does-it-mean-for-investors/article67041965.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/markets/wgh8e4/article67041899.ece/alternates/LANDSCAPE_1200/NEW%20podcasts%20thumbs%20%286%29.png",
+            "publishedAt": "2023-07-04T14:18:11Z",
+            "content": "In addition to approving the merger of the two companies, the boards of directors of IDFC and IDFC Financial Holding also announced an exchange of 155 shares of IDFC FIRST Bank for every 100 shares o… [+2130 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Sushmita Jha",
+            "title": "Salt content: Are you keeping a check? - Indiatimes.com",
+            "description": "Increased amounts of sodium chloride can be harmful to your body and according to studies Indian consume double the amount of salt recommended by WHO.",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/diet/salt-content-are-you-keeping-a-check/articleshow/101483870.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-101483996,width-1070,height-580,imgsize-18754,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2023-07-04T14:10:00Z",
+            "content": "Alia Bhatt, Deepika Padukone and others: Actors who have played Bengali beauties on screen"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thewire.in"
+            },
+            "author": null,
+            "title": "'Decide as Early as Possible': SC Tells Madras HC on Senthilbalaji Habeas Corpus Case - The Wire",
+            "description": "Just before making its request, the Supreme Court bench denied solicitor general Tushar Mehta’s request for it to resolve the impasse created as a result of the high court’s split verdict.",
+            "url": "https://thewire.in/law/sc-tells-madras-hc-to-decide-senthilbalaji-petition",
+            "urlToImage": "https://cdn.thewire.in/wp-content/uploads/2023/07/04181601/Supreme-Court-and-Senthilbalaji-800x400.jpg",
+            "publishedAt": "2023-07-04T13:10:22Z",
+            "content": "New Delhi: Following a split verdict by the Madras high court on a habeas corpus petition challenging Tamil Nadu minister V. Senthilbalajis arrest, the Supreme Court has requested for the matter to b… [+3504 chars]"
+        }
+    ]
+}
